@@ -1,4 +1,4 @@
-# Basic Tic Tac Toe game    للعبة بسيط برنامج
+# Simple Tic Tac Toe game    برنامج بسيط للعبة
 board = [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
 turn = 'X'
 
